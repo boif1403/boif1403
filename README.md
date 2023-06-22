@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Frederick Boisvert
+- 👋 Hi, I’m Frédérick Boisvert
 - 👀 I’m interested in plants and birds and rocks and things
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C++, Python C#
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me ...please don't.
 - 🍪 Virtual cookie if you can tell me what song the lyric is from.
